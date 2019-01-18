@@ -5,7 +5,7 @@ import sys; x="foobar"; sys.stdout.write(x+ '\n')
 
 #printing to standard out
 greet="This is initial greetings to start with"
-print ("\nhello python world!\n")
+print ("\nhello world!\n")
 print (greet)
 
 #accepting user imput
